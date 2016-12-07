@@ -3,6 +3,8 @@
 A cidade do Porto tem sido conquistada em silêncio pelo disco de carne picada entre dois pedaços de pão.  
 Depois de alguma investigação no TripAdvisor criámos um mapa da invasão dos hambúrgueres na nossa cidade.  
 
+Esta visualização está online em: https://tmmv.github.io/invasao_dos_hamburgueres
+
 Este projeto contou com a ajuda de várias pessoas:  
 <a href="https://twitter.com/tvieira">Tiago Vieira</a> - front-end e edição de dados  
 <a href="https://twitter.com/joao">João Antunes</a> - mapeamento de dados  
